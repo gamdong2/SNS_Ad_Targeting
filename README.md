@@ -1,4 +1,4 @@
-# SNS 광고 타겟 설정 모델
+# SNS 광고 타겟 설정을 위한 고객 클러스터링 모델 개발
 
 ## Skills
 <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>&nbsp;
@@ -6,9 +6,6 @@
 <img src="https://img.shields.io/badge/numpy-4d77cf.svg?style=for-the-badge&logo=numpy&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/Matplotlib-11557c.svg?style=for-the-badge&logo=Matplotlib&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/Seaborn-11557c.svg?style=for-the-badge&logo=Seaborn&logoColor=white"/>&nbsp;
-
-## 프로젝트 제목
-**SNS 광고 타겟 설정을 위한 고객 클러스터링 모델 개발**
 
 ## 프로젝트 상세
 
